@@ -1,0 +1,3 @@
+﻿  Activity_4.cpp
+C:\Users\Joshua\Documents\C++\Test\Activity_4\Activity_4\Activity_4.cpp(18,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Activity_4.vcxproj -> C:\Users\Joshua\Documents\C++\Test\Activity_4\x64\Debug\Activity_4.exe
